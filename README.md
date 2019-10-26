@@ -2,5 +2,4 @@
 Companion Repo for a React Native course
 
 Usage of:
-Redux
-Hooks
+Redux and Hooks
