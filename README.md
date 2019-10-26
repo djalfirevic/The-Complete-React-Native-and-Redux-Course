@@ -1,2 +1,6 @@
-# The-Complete-React-Native-and-Redux-Course
+# The Complete React Native and Redux Course
 Companion Repo for a React Native course
+
+Usage of:
+Redux
+Hooks
