@@ -1,2 +1,2 @@
-# rn-casts
-Companion Repo for a React Native course on Udemy
+# The-Complete-React-Native-and-Redux-Course
+Companion Repo for a React Native course
